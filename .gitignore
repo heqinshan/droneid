@@ -1,0 +1,13 @@
+*.cfile
+*.dat
+*.fc32
+*.bin
+*.docx
+*.pdf
+decode_out/
+decode_out*/
+*_decode_result.json
+*_decode_attempts.csv
+__pycache__/
+*.pyc
+.venv/

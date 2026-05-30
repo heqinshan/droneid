@@ -1,0 +1,5 @@
+bitarray
+crcmod
+matplotlib
+numpy
+scipy
